@@ -1,4 +1,4 @@
-## 🧮 Calculadora Básica em C++
+## Calculadora Básica em C++
 
 Este repositório contém uma calculadora simples desenvolvida em C++ que realiza as quatro operações matemáticas básicas:
 
