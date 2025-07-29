@@ -45,6 +45,6 @@ Este repositório contém uma calculadora simples desenvolvida em C++ que realiz
 Este projeto tem como objetivo reforçar os conceitos iniciais de programação em C++, como:
 
 * Entrada e saída de dados
-* Estruturas condicionais (`if`, `switch`)
+* Estruturas condicionais (`if`, `else if`, `else`)
 * Operadores aritméticos
 * Boas práticas de organização de código
